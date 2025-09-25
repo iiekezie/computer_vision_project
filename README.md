@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # computer_vision_project
 =======
 # Computer Vision Project - Image Restoration
@@ -142,4 +141,3 @@ pip install --upgrade opencv-python matplotlib numpy requests Pillow urllib3
 
 ## Author
 Ifeanyi Ekezie
->>>>>>> 6fdc83d7 (Complete computer vision image restoration project)
