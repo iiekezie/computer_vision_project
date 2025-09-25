@@ -1,5 +1,3 @@
-# computer_vision_project
-=======
 # Computer Vision Project - Image Restoration
 
 ## Project Overview
